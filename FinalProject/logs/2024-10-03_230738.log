@@ -1,0 +1,6 @@
+[INFO ] 03-10-2024 23:07:39 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 23:07:40 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Chân váy xòe nhún tầng midi cotton')]
+[INFO ] 03-10-2024 23:07:41 [main] Log - [Click] vào By.xpath: //*[@id="add-to-cart-form"]/div[5]/div[2]/div/div[1]/div[2]/div/button
+[INFO ] 03-10-2024 23:07:42 [main] Log - [Click] vào By.xpath: /html/body/div[10]/div/div/div/div[2]/div[2]/a[2]
+[INFO ] 03-10-2024 23:07:43 [main] Log - [Verify Element text] của: By.xpath: //*[@id="cart-tab"]/div/div[1]/form/div[2]/div[1]/div[1]/div[3]/div[1]/h3/a với value: Chân váy xòe nhún tầng midi cotton
+[INFO ] 03-10-2024 23:07:44 [main] Log - [Verify Element text] của: By.xpath: //input[contains(@class,'item-quantity')] với value: 1

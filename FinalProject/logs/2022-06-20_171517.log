@@ -1,0 +1,111 @@
+[INFO ] 20-06-2022 17:15:18 [main] Log - Test case: CheckDatHangFailDiaChi test is starting...
+[INFO ] 20-06-2022 17:15:18 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:15:22 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:15:24 [main] Log - [Click] vào By.xpath: //a[@id='ega_buynow_cc']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Set text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:25 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:26 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:26 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:26 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_province'] by text Hưng Yên
+[INFO ] 20-06-2022 17:15:26 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_district'] by text Huyện Khoái Châu
+[INFO ] 20-06-2022 17:15:27 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_ward'] by text Xã Tân Dân
+[INFO ] 20-06-2022 17:15:28 [main] Log - [Click] vào By.xpath: //form[@id='form_next_step']
+[INFO ] 20-06-2022 17:15:29 [main] Log - [Verify Element text] của: By.xpath: //p[contains(text(),'Địa chỉ không được trống')] với value: Địa chỉ không được trống
+[INFO ] 20-06-2022 17:15:29 [main] Log - Test case: CheckDatHangFailDiaChi is passed.
+[INFO ] 20-06-2022 17:15:30 [main] Log - Test case: CheckDatHangFailEmail test is starting...
+[INFO ] 20-06-2022 17:15:30 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:15:33 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:15:35 [main] Log - [Click] vào By.xpath: //a[@id='ega_buynow_cc']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Set text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:37 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:38 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_province'] by text Hưng Yên
+[INFO ] 20-06-2022 17:15:38 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_district'] by text Huyện Khoái Châu
+[INFO ] 20-06-2022 17:15:39 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_ward'] by text Xã Tân Dân
+[INFO ] 20-06-2022 17:15:39 [main] Log - [Click] vào By.xpath: //form[@id='form_next_step']
+[INFO ] 20-06-2022 17:15:40 [main] Log - [Verify Element text] của: By.xpath: //p[contains(text(),'Địa chỉ email không được trống')] với value: Địa chỉ email không được trống
+[INFO ] 20-06-2022 17:15:40 [main] Log - Test case: CheckDatHangFailEmail is passed.
+[INFO ] 20-06-2022 17:15:41 [main] Log - Test case: CheckDatHangFailHoVaTen test is starting...
+[INFO ] 20-06-2022 17:15:41 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:15:47 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:15:48 [main] Log - [Click] vào By.xpath: //a[@id='ega_buynow_cc']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Set text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:15:50 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_province'] by text Hưng Yên
+[INFO ] 20-06-2022 17:15:51 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_district'] by text Huyện Khoái Châu
+[INFO ] 20-06-2022 17:15:52 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_ward'] by text Xã Tân Dân
+[INFO ] 20-06-2022 17:15:52 [main] Log - [Click] vào By.xpath: //form[@id='form_next_step']
+[INFO ] 20-06-2022 17:15:53 [main] Log - [Verify Element text] của: By.xpath: //p[contains(text(),'Vui lòng nhập họ tên')] với value: Vui lòng nhập họ tên
+[INFO ] 20-06-2022 17:15:53 [main] Log - Test case: CheckDatHangFailHoVaTen is passed.
+[INFO ] 20-06-2022 17:15:54 [main] Log - Test case: CheckDatHangFailSĐT test is starting...
+[INFO ] 20-06-2022 17:15:54 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:15:59 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:16:00 [main] Log - [Click] vào By.xpath: //a[@id='ega_buynow_cc']
+[INFO ] 20-06-2022 17:16:02 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:16:02 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:16:02 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:16:02 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:16:02 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:16:02 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [Set text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:16:03 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_province'] by text Hưng Yên
+[INFO ] 20-06-2022 17:16:04 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_district'] by text Huyện Khoái Châu
+[INFO ] 20-06-2022 17:16:04 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_ward'] by text Xã Tân Dân
+[INFO ] 20-06-2022 17:16:05 [main] Log - [Click] vào By.xpath: //form[@id='form_next_step']
+[INFO ] 20-06-2022 17:16:05 [main] Log - [Verify Element text] của: By.xpath: //p[contains(text(),'Số điện thoại không được trống')] với value: Số điện thoại không được trống
+[INFO ] 20-06-2022 17:16:05 [main] Log - Test case: CheckDatHangFailSĐT is passed.
+[INFO ] 20-06-2022 17:16:07 [main] Log - Test case: CheckDatHangThanhCong test is starting...
+[INFO ] 20-06-2022 17:16:07 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:16:11 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:16:12 [main] Log - [Click] vào By.xpath: //a[@id='ega_buynow_cc']
+[INFO ] 20-06-2022 17:16:13 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:16:13 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:16:13 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:16:13 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_full_name']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Clear text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Set text] của By.xpath: //input[@id='checkout_user_email']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_phone']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Clear text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [Set text] của By.xpath: //input[@id='billing_address_address1']
+[INFO ] 20-06-2022 17:16:14 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_province'] by text Hưng Yên
+[INFO ] 20-06-2022 17:16:15 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_district'] by text Huyện Khoái Châu
+[INFO ] 20-06-2022 17:16:15 [main] Log - [SelectOption] By.xpath: //select[@id='customer_shipping_ward'] by text Xã Tân Dân
+[INFO ] 20-06-2022 17:16:16 [main] Log - [Click] vào By.xpath: //form[@id='form_next_step']
+[INFO ] 20-06-2022 17:16:17 [main] Log - [Verify Element text] của: By.xpath: //h2[contains(text(),'Phương thức thanh toán')] với value: Phương thức thanh toán
+[INFO ] 20-06-2022 17:16:17 [main] Log - Test case: CheckDatHangThanhCong is passed.
+[INFO ] 20-06-2022 17:16:17 [main] Log - End suite testing Suite1

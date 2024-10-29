@@ -1,0 +1,7 @@
+[INFO ] 03-10-2024 09:37:28 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 09:37:28 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 09:37:54 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[ERROR] 03-10-2024 09:38:25 [main] Log - Đây là test case bị fail: TimKiemTuKhoaDung
+[ERROR] 03-10-2024 09:38:26 [main] Log - Test case: TimKiemTuKhoaDung is failed.
+[INFO ] 03-10-2024 09:38:27 [main] Log - Test case: TimKiemTuKhoaGanDung test is starting...
+[INFO ] 03-10-2024 09:38:27 [main] Log - Truy cap trang: https://maybi.com/

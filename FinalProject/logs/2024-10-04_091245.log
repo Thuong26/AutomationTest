@@ -1,0 +1,6 @@
+[INFO ] 04-10-2024 09:12:46 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet test is starting...
+[INFO ] 04-10-2024 09:12:46 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 04-10-2024 09:13:16 [main] Log - Đây là test case bị fail: DangNhapKhongThanhCong_passnhapkytudacbiet
+[ERROR] 04-10-2024 09:13:16 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet is failed.
+[INFO ] 04-10-2024 09:13:17 [main] Log - Test case: DangNhapKhongThanhCong_saiemail test is starting...
+[INFO ] 04-10-2024 09:13:17 [main] Log - Truy cap trang: https://maybi.com/

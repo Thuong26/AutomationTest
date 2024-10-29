@@ -1,0 +1,4 @@
+[INFO ] 03-10-2024 00:41:07 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet test is starting...
+[INFO ] 03-10-2024 00:41:07 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 00:41:09 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 00:41:09 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button

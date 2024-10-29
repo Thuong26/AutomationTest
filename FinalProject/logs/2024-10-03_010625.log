@@ -1,0 +1,86 @@
+[INFO ] 03-10-2024 01:06:26 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet test is starting...
+[INFO ] 03-10-2024 01:06:26 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:06:27 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:06:28 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:06:30 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:30 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:30 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:30 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:30 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:06:31 [main] Log - [Verify Element text] của: By.xpath: //*[@id="customer_login"]/div[1] với value: Thông tin đăng nhập không hợp lệ.
+[INFO ] 03-10-2024 01:06:32 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet is passed.
+[INFO ] 03-10-2024 01:06:33 [main] Log - Test case: DangNhapKhongThanhCong_saiemail test is starting...
+[INFO ] 03-10-2024 01:06:33 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:06:40 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:06:40 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:06:42 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:42 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:42 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:42 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:42 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:06:43 [main] Log - [Verify Element text] của: By.xpath: //*[@id="customer_login"]/div[1] với value: Thông tin đăng nhập không hợp lệ.
+[INFO ] 03-10-2024 01:06:43 [main] Log - Test case: DangNhapKhongThanhCong_saiemail is passed.
+[INFO ] 03-10-2024 01:06:44 [main] Log - Test case: DangNhapKhongThanhCong_saipass1 test is starting...
+[INFO ] 03-10-2024 01:06:44 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:06:46 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:06:47 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:06:48 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:48 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:49 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:49 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:49 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:06:50 [main] Log - [Verify Element text] của: By.xpath: //*[@id="customer_login"]/div[1] với value: Thông tin đăng nhập không hợp lệ.
+[INFO ] 03-10-2024 01:06:50 [main] Log - Test case: DangNhapKhongThanhCong_saipass1 is passed.
+[INFO ] 03-10-2024 01:06:51 [main] Log - Test case: DangNhapThanhCong test is starting...
+[INFO ] 03-10-2024 01:06:51 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:06:53 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:06:53 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:06:54 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:55 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:06:55 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:55 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:06:55 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:06:56 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[1]/div/p/span với value: Nguyễn Linh đƠN ẢO
+[INFO ] 03-10-2024 01:06:56 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:06:56 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng xuất')]
+[INFO ] 03-10-2024 01:06:58 [main] Log - Test case: DangNhapThanhCong is passed.
+[INFO ] 03-10-2024 01:06:59 [main] Log - Test case: DangNhapThanhCong_email21kytudung test is starting...
+[INFO ] 03-10-2024 01:06:59 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:07:00 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:07:00 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:07:02 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:07:02 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:07:02 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:07:02 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:07:03 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:07:04 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[1]/div/p/span với value: so mot
+[INFO ] 03-10-2024 01:07:04 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:07:04 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng xuất')]
+[INFO ] 03-10-2024 01:07:05 [main] Log - Test case: DangNhapThanhCong_email21kytudung is passed.
+[INFO ] 03-10-2024 01:07:06 [main] Log - Test case: DangNhapThanhCong_email50kytudung test is starting...
+[INFO ] 03-10-2024 01:07:06 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:07:07 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:07:08 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:07:09 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:07:09 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:07:10 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:07:10 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:07:10 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:07:11 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[1]/div/p/span với value: so hai
+[INFO ] 03-10-2024 01:07:11 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:07:11 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng xuất')]
+[INFO ] 03-10-2024 01:07:13 [main] Log - Test case: DangNhapThanhCong_email50kytudung is passed.
+[INFO ] 03-10-2024 01:07:14 [main] Log - Test case: DangNhapThanhCong_email51kytu test is starting...
+[INFO ] 03-10-2024 01:07:14 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 01:07:15 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:07:15 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 01:07:17 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 01:07:17 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 01:07:18 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 01:07:18 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 01:07:18 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 01:07:20 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[1]/div/p/span với value: so bay
+[INFO ] 03-10-2024 01:07:20 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 01:07:20 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng xuất')]
+[INFO ] 03-10-2024 01:07:22 [main] Log - Test case: DangNhapThanhCong_email51kytu is passed.
+[INFO ] 03-10-2024 01:07:22 [main] Log - End suite testing Suite1

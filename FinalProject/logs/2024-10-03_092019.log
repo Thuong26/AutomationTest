@@ -1,0 +1,6 @@
+[INFO ] 03-10-2024 09:20:20 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 09:20:20 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:20:50 [main] Log - Đây là test case bị fail: TimKiemTuKhoaDung
+[ERROR] 03-10-2024 09:20:50 [main] Log - Test case: TimKiemTuKhoaDung is failed.
+[INFO ] 03-10-2024 09:20:51 [main] Log - Test case: TimKiemTuKhoaGanDung test is starting...
+[INFO ] 03-10-2024 09:20:51 [main] Log - Truy cap trang: https://maybi.com/

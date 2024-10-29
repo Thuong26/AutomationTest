@@ -1,0 +1,23 @@
+[INFO ] 20-06-2022 17:18:34 [main] Log - Test case: CheckGioHangThem2SPGiongNhau test is starting...
+[INFO ] 20-06-2022 17:18:34 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:18:39 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:18:40 [main] Log - [Click] vào By.xpath: //body/div[3]/div[1]/div[1]/div[2]/div[5]/div[1]/input[3]
+[INFO ] 20-06-2022 17:18:41 [main] Log - [Click] vào By.xpath: //a[@id='addcart-btn']
+[INFO ] 20-06-2022 17:18:42 [main] Log - [Click] vào By.xpath: //body/div[@id='cart-popup']/div[1]/div[1]/div[1]/div[2]/a[1]
+[INFO ] 20-06-2022 17:18:43 [main] Log - [Verify Element text] của: By.xpath: //h5[contains(text(),'Đầm rã cúp phối nơ vai')] với value: Đầm rã cúp phối nơ vai
+[INFO ] 20-06-2022 17:18:43 [main] Log - [Verify Element text] của: By.xpath: //input[contains(@class,'item-quantity')] với value: 2
+[INFO ] 20-06-2022 17:18:43 [main] Log - Test case: CheckGioHangThem2SPGiongNhau is passed.
+[INFO ] 20-06-2022 17:18:44 [main] Log - Test case: CheckGioHangThem2SPKhacNhau test is starting...
+[INFO ] 20-06-2022 17:18:44 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 20-06-2022 17:18:49 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Đầm rã cúp phối nơ vai')]
+[INFO ] 20-06-2022 17:18:51 [main] Log - [Click] vào By.xpath: //body/div[3]/div[1]/div[1]/div[2]/div[5]/div[1]/input[3]
+[INFO ] 20-06-2022 17:18:51 [main] Log - [Click] vào By.xpath: //a[@id='addcart-btn']
+[INFO ] 20-06-2022 17:18:51 [main] Log - [Click] vào By.xpath: //body/div[@id='cart-popup']/div[1]/div[1]/div[1]/div[2]/a[1]
+[INFO ] 20-06-2022 17:18:52 [main] Log - [Click] vào By.xpath: //body/div[@id='ega-cart']/div[1]/div[1]/div[1]/form[1]/div[1]/div[3]/div[1]/div[2]/a[1]
+[INFO ] 20-06-2022 17:18:53 [main] Log - [Click] vào By.xpath: //h3[contains(text(),'Áo thun trắng form medium in hình trái tim')]
+[INFO ] 20-06-2022 17:18:55 [main] Log - [Click] vào By.xpath: //a[@id='addcart-btn']
+[INFO ] 20-06-2022 17:18:55 [main] Log - [Click] vào By.xpath: //body/div[@id='cart-popup']/div[1]/div[1]/div[1]/div[2]/a[1]
+[INFO ] 20-06-2022 17:18:56 [main] Log - [Verify Element text] của: By.xpath: //h5[contains(text(),'Đầm rã cúp phối nơ vai')] với value: Đầm rã cúp phối nơ vai
+[INFO ] 20-06-2022 17:18:56 [main] Log - [Verify Element text] của: By.xpath: //h5[contains(text(),'Áo thun trắng form medium in hình trái tim')] với value: Áo thun trắng form medium in hình trái tim
+[INFO ] 20-06-2022 17:18:56 [main] Log - Test case: CheckGioHangThem2SPKhacNhau is passed.
+[INFO ] 20-06-2022 17:18:57 [main] Log - End suite testing Suite1

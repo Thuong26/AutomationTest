@@ -1,0 +1,131 @@
+[INFO ] 03-10-2024 21:48:43 [main] Log - Test case: DangKyKhongThanhCong_FailEmail test is starting...
+[INFO ] 03-10-2024 21:48:43 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:48:44 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:48:45 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:48:47 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:48:48 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:48:48 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[2]/div[1]/fieldset/input với value: Email không đúng định dạng!
+[ERROR] 03-10-2024 21:48:48 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmail
+[ERROR] 03-10-2024 21:48:48 [main] Log - Test case: DangKyKhongThanhCong_FailEmail is failed.
+[INFO ] 03-10-2024 21:48:49 [main] Log - Test case: DangKyKhongThanhCong_FailEmailDaTonTai test is starting...
+[INFO ] 03-10-2024 21:48:49 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:48:50 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:48:51 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:48:53 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:48:54 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:48:54 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:48:54 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:48:54 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:48:55 [main] Log - [Verify Element text] của: By.xpath: //body/div[@id='ega-register-page']/div[1]/div[1]/div[1]/div[1]/form[1]/div[1]/ul[1]/li[1] với value: Email đã tồn tại. Nếu bạn quên mật khẩu, bạn có thể thiết lập lại mật khẩu tại đây.
+[ERROR] 03-10-2024 21:49:25 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailDaTonTai
+[ERROR] 03-10-2024 21:49:25 [main] Log - Test case: DangKyKhongThanhCong_FailEmailDaTonTai is failed.
+[INFO ] 03-10-2024 21:49:26 [main] Log - Test case: DangKyKhongThanhCong_FailEmailcochuadaucach test is starting...
+[INFO ] 03-10-2024 21:49:26 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:49:27 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:49:28 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:49:29 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:49:30 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:49:30 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[2]/div[1]/fieldset/input với value: Email không đúng định dạng!
+[ERROR] 03-10-2024 21:49:30 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailcochuadaucach
+[ERROR] 03-10-2024 21:49:30 [main] Log - Test case: DangKyKhongThanhCong_FailEmailcochuadaucach is failed.
+[INFO ] 03-10-2024 21:49:31 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieudaucham test is starting...
+[INFO ] 03-10-2024 21:49:31 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:49:33 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:49:33 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:49:35 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:49:36 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:49:36 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[2]/div[1]/fieldset/input với value: Email không đúng định dạng!
+[ERROR] 03-10-2024 21:49:36 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailthieudaucham
+[ERROR] 03-10-2024 21:49:37 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieudaucham is failed.
+[INFO ] 03-10-2024 21:49:37 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieukitu test is starting...
+[INFO ] 03-10-2024 21:49:37 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:49:39 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:49:39 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:49:41 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:49:42 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:49:42 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[2]/div[1]/fieldset/input với value: Email không đúng định dạng!
+[ERROR] 03-10-2024 21:49:42 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailthieukitu
+[ERROR] 03-10-2024 21:49:42 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieukitu is failed.
+[INFO ] 03-10-2024 21:49:43 [main] Log - Test case: DangKyKhongThanhCong_FailHo test is starting...
+[INFO ] 03-10-2024 21:49:43 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:49:45 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:49:46 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:49:47 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:48 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:48 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:49:48 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:49:48 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:49:48 [main] Log - [Verify Element text] của: By.xpath: //*[@id="lastName"] với value: Bạn chưa nhập thông tin này!
+[ERROR] 03-10-2024 21:49:48 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailHo
+[ERROR] 03-10-2024 21:49:48 [main] Log - Test case: DangKyKhongThanhCong_FailHo is failed.
+[INFO ] 03-10-2024 21:49:49 [main] Log - Test case: DangKyKhongThanhCong_FailPass test is starting...
+[INFO ] 03-10-2024 21:49:49 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:49:51 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 21:49:51 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 21:49:53 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 21:49:54 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 21:49:54 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[2]/div[2]/fieldset/input với value: Bạn chưa nhập thông tin này!
+[ERROR] 03-10-2024 21:49:54 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailPass
+[ERROR] 03-10-2024 21:49:54 [main] Log - Test case: DangKyKhongThanhCong_FailPass is failed.
+[INFO ] 03-10-2024 21:49:55 [main] Log - Test case: DangKyKhongThanhCong_FailTen test is starting...
+[INFO ] 03-10-2024 21:49:55 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 21:50:27 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailTen
+[ERROR] 03-10-2024 21:50:27 [main] Log - Test case: DangKyKhongThanhCong_FailTen is failed.
+[INFO ] 03-10-2024 21:50:28 [main] Log - End suite testing Suite1

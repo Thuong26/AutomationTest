@@ -1,0 +1,33 @@
+[INFO ] 03-10-2024 09:02:04 [main] Log - Test case: DangKyKhongThanhCong_FailEmail test is starting...
+[INFO ] 03-10-2024 09:02:04 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:05 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmail
+[ERROR] 03-10-2024 09:02:05 [main] Log - Test case: DangKyKhongThanhCong_FailEmail is failed.
+[INFO ] 03-10-2024 09:02:06 [main] Log - Test case: DangKyKhongThanhCong_FailEmailDaTonTai test is starting...
+[INFO ] 03-10-2024 09:02:06 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:06 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailDaTonTai
+[ERROR] 03-10-2024 09:02:07 [main] Log - Test case: DangKyKhongThanhCong_FailEmailDaTonTai is failed.
+[INFO ] 03-10-2024 09:02:08 [main] Log - Test case: DangKyKhongThanhCong_FailEmailcochuadaucach test is starting...
+[INFO ] 03-10-2024 09:02:08 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:09 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailcochuadaucach
+[ERROR] 03-10-2024 09:02:09 [main] Log - Test case: DangKyKhongThanhCong_FailEmailcochuadaucach is failed.
+[INFO ] 03-10-2024 09:02:10 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieudaucham test is starting...
+[INFO ] 03-10-2024 09:02:10 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:10 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailthieudaucham
+[ERROR] 03-10-2024 09:02:10 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieudaucham is failed.
+[INFO ] 03-10-2024 09:02:11 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieukitu test is starting...
+[INFO ] 03-10-2024 09:02:11 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:11 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailthieukitu
+[ERROR] 03-10-2024 09:02:11 [main] Log - Test case: DangKyKhongThanhCong_FailEmailthieukitu is failed.
+[INFO ] 03-10-2024 09:02:12 [main] Log - Test case: DangKyKhongThanhCong_FailHo test is starting...
+[INFO ] 03-10-2024 09:02:12 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:12 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailHo
+[ERROR] 03-10-2024 09:02:13 [main] Log - Test case: DangKyKhongThanhCong_FailHo is failed.
+[INFO ] 03-10-2024 09:02:13 [main] Log - Test case: DangKyKhongThanhCong_FailPass test is starting...
+[INFO ] 03-10-2024 09:02:13 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:14 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailPass
+[ERROR] 03-10-2024 09:02:14 [main] Log - Test case: DangKyKhongThanhCong_FailPass is failed.
+[INFO ] 03-10-2024 09:02:15 [main] Log - Test case: DangKyKhongThanhCong_FailTen test is starting...
+[INFO ] 03-10-2024 09:02:15 [main] Log - Truy cap trang: https://maybi.com/
+[ERROR] 03-10-2024 09:02:15 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailTen
+[ERROR] 03-10-2024 09:02:15 [main] Log - Test case: DangKyKhongThanhCong_FailTen is failed.
+[INFO ] 03-10-2024 09:02:15 [main] Log - End suite testing Suite1

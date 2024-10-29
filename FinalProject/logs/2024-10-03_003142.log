@@ -1,0 +1,8 @@
+[INFO ] 03-10-2024 00:31:43 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet test is starting...
+[INFO ] 03-10-2024 00:31:43 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 00:31:45 [main] Log - [Hover] vào By.xpath: //header/div[1]/div[3]/div[1]/div[1]/img[1]
+[ERROR] 03-10-2024 00:32:15 [main] Log - Đây là test case bị fail: DangNhapKhongThanhCong_passnhapkytudacbiet
+[ERROR] 03-10-2024 00:32:15 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet is failed.
+[INFO ] 03-10-2024 00:32:16 [main] Log - Test case: DangNhapKhongThanhCong_saiemail test is starting...
+[INFO ] 03-10-2024 00:32:16 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 00:32:18 [main] Log - [Hover] vào By.xpath: //header/div[1]/div[3]/div[1]/div[1]/img[1]

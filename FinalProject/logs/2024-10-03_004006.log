@@ -1,0 +1,9 @@
+[INFO ] 03-10-2024 00:40:07 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet test is starting...
+[INFO ] 03-10-2024 00:40:07 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 00:40:13 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 00:40:14 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 00:40:15 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 00:40:15 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 00:40:16 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 00:40:16 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 00:40:16 [main] Log - [Click] vào By.xpath: //body/div[@id='ega-login-page']/div[1]/div[1]/div[1]/form[1]/div[3]/input[1]

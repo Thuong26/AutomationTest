@@ -1,0 +1,20 @@
+[INFO ] 03-10-2024 21:22:59 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 21:22:59 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:23:00 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:23:01 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:23:01 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:23:01 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:23:02 [main] Log - [Verify Element text] của: By.xpath: //a[contains(text(),'Áo thun ôm xếp ly vai')] với value: Áo thun ôm xếp ly vai
+[INFO ] 03-10-2024 21:23:02 [main] Log - Test case: TimKiemTuKhoaDung is passed.
+[INFO ] 03-10-2024 21:23:03 [main] Log - Test case: TimKiemTuKhoaGanDung test is starting...
+[INFO ] 03-10-2024 21:23:03 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:23:05 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:23:06 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:23:06 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:23:06 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:23:07 [main] Log - [Verify Element text] của: By.xpath: //h4[contains(text(),'Chân váy midi xoè lưới')] với value: Chân váy midi xoè lưới
+[ERROR] 03-10-2024 21:23:37 [main] Log - Đây là test case bị fail: TimKiemTuKhoaGanDung
+[ERROR] 03-10-2024 21:23:38 [main] Log - Test case: TimKiemTuKhoaGanDung is failed.
+[INFO ] 03-10-2024 21:23:39 [main] Log - Test case: TimKiemTuKhoaNhapKhongCoTrongDB test is starting...
+[INFO ] 03-10-2024 21:23:39 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:23:41 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span

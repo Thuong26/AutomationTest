@@ -1,0 +1,45 @@
+[INFO ] 03-10-2024 06:59:23 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet test is starting...
+[INFO ] 03-10-2024 06:59:23 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 06:59:27 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 06:59:28 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 06:59:30 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:30 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:30 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:30 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:30 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 06:59:31 [main] Log - [Verify Element text] của: By.xpath: //*[@id="customer_login"]/div[1] với value: Thông tin đăng nhập không hợp lệ.
+[ERROR] 03-10-2024 06:59:32 [main] Log - Đây là test case bị fail: DangNhapKhongThanhCong_passnhapkytudacbiet
+[ERROR] 03-10-2024 06:59:32 [main] Log - Test case: DangNhapKhongThanhCong_passnhapkytudacbiet is failed.
+[INFO ] 03-10-2024 06:59:33 [main] Log - Test case: DangNhapKhongThanhCong_saiemail test is starting...
+[INFO ] 03-10-2024 06:59:33 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 06:59:37 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 06:59:37 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 06:59:39 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:39 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:39 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:40 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:40 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 06:59:41 [main] Log - [Verify Element text] của: By.xpath: //*[@id="customer_login"]/div[1] với value: Thông tin đăng nhập không hợp lệ.
+[INFO ] 03-10-2024 06:59:41 [main] Log - Test case: DangNhapKhongThanhCong_saiemail is passed.
+[INFO ] 03-10-2024 06:59:42 [main] Log - Test case: DangNhapKhongThanhCong_saipass1 test is starting...
+[INFO ] 03-10-2024 06:59:42 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 06:59:46 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 06:59:46 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 06:59:48 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:48 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:49 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:49 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:49 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 06:59:50 [main] Log - [Verify Element text] của: By.xpath: //*[@id="customer_login"]/div[1] với value: Thông tin đăng nhập không hợp lệ.
+[ERROR] 03-10-2024 06:59:50 [main] Log - Đây là test case bị fail: DangNhapKhongThanhCong_saipass1
+[ERROR] 03-10-2024 06:59:51 [main] Log - Test case: DangNhapKhongThanhCong_saipass1 is failed.
+[INFO ] 03-10-2024 06:59:51 [main] Log - Test case: DangNhapThanhCong test is starting...
+[INFO ] 03-10-2024 06:59:51 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 06:59:54 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 06:59:55 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng nhập')]
+[INFO ] 03-10-2024 06:59:58 [main] Log - [Clear text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:58 [main] Log - [Set text] của By.id: customer_email
+[INFO ] 03-10-2024 06:59:58 [main] Log - [Clear text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:58 [main] Log - [Set text] của By.id: customer_password
+[INFO ] 03-10-2024 06:59:58 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div[1]/div[1]/form/div[2]/div/button
+[INFO ] 03-10-2024 07:00:00 [main] Log - [Verify Element text] của: By.xpath: /html/body/section[2]/div/div/div[1]/div/p/span với value: Nguyễn Linh đƠN ẢO

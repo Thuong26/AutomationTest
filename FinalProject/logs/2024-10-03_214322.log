@@ -1,0 +1,55 @@
+[INFO ] 03-10-2024 21:43:23 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 21:43:23 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:43:24 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:43:25 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:25 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:25 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 03-10-2024 21:43:26 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:43:27 [main] Log - [Verify Element text] của: By.xpath: //a[contains(text(),'Áo thun ôm xếp ly vai')] với value: Áo thun ôm xếp ly vai
+[INFO ] 03-10-2024 21:43:28 [main] Log - Test case: TimKiemTuKhoaDung is passed.
+[INFO ] 03-10-2024 21:43:28 [main] Log - Test case: TimKiemTuKhoaGanDung test is starting...
+[INFO ] 03-10-2024 21:43:28 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:43:36 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:43:36 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:37 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:37 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 03-10-2024 21:43:37 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:43:40 [main] Log - [Verify Element text] của: By.xpath: //a[contains(text(),'Chân váy midi xoè lưới')] với value: Chân váy midi xoè lưới
+[INFO ] 03-10-2024 21:43:40 [main] Log - Test case: TimKiemTuKhoaGanDung is passed.
+[INFO ] 03-10-2024 21:43:40 [main] Log - Test case: TimKiemTuKhoaNhapKhongCoTrongDB test is starting...
+[INFO ] 03-10-2024 21:43:40 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:43:42 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:43:42 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:42 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:43 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 03-10-2024 21:43:43 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:43:45 [main] Log - [Verify Element text] của: By.xpath: //*[@id="template-search"]/section[2]/div/div/div[3]/h2 với value: Không tìm thấy bất kỳ kết quả nào với từ khóa trên.
+[ERROR] 03-10-2024 21:43:45 [main] Log - Đây là test case bị fail: TimKiemTuKhoaNhapKhongCoTrongDB
+[ERROR] 03-10-2024 21:43:45 [main] Log - Test case: TimKiemTuKhoaNhapKhongCoTrongDB is failed.
+[INFO ] 03-10-2024 21:43:46 [main] Log - Test case: TimKiemTuKhoaNhapKiTuDacBiet test is starting...
+[INFO ] 03-10-2024 21:43:46 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:43:47 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:43:48 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:48 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:49 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 03-10-2024 21:43:49 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:43:50 [main] Log - [Verify Element text] của: By.xpath: //*[@id="template-search"]/section[2]/div/div/div[3]/h2 với value: Không tìm thấy bất kỳ kết quả nào với từ khóa trên.
+[ERROR] 03-10-2024 21:43:50 [main] Log - Đây là test case bị fail: TimKiemTuKhoaNhapKiTuDacBiet
+[ERROR] 03-10-2024 21:43:50 [main] Log - Test case: TimKiemTuKhoaNhapKiTuDacBiet is failed.
+[INFO ] 03-10-2024 21:43:51 [main] Log - Test case: TimKiemTuKhoaNhapSo test is starting...
+[INFO ] 03-10-2024 21:43:51 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:43:52 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:43:53 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:53 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:43:54 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 03-10-2024 21:43:54 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 21:43:56 [main] Log - [Verify Element text] của: By.xpath: //*[@id="template-search"]/section[2]/div/div/div[3]/h2 với value: Không tìm thấy bất kỳ kết quả nào với từ khóa trên.
+[ERROR] 03-10-2024 21:43:56 [main] Log - Đây là test case bị fail: TimKiemTuKhoaNhapSo
+[ERROR] 03-10-2024 21:43:56 [main] Log - Test case: TimKiemTuKhoaNhapSo is failed.
+[INFO ] 03-10-2024 21:43:57 [main] Log - Test case: TimKiemTuKhoachuhoacodau test is starting...
+[INFO ] 03-10-2024 21:43:57 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 21:43:58 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 21:43:59 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:44:00 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 21:44:00 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 03-10-2024 21:44:01 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button

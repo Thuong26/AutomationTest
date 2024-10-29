@@ -1,0 +1,11 @@
+[INFO ] 03-10-2024 09:39:22 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 09:39:22 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 09:39:49 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 09:39:50 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 09:39:50 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 09:39:50 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 09:39:54 [main] Log - [Verify Element text] của: By.xpath: //h3[contains(text(),'Đầm 2 dây hồng phối nơ')] với value: Áo thun ôm xếp ly vai
+[ERROR] 03-10-2024 09:40:24 [main] Log - Đây là test case bị fail: TimKiemTuKhoaDung
+[ERROR] 03-10-2024 09:40:25 [main] Log - Test case: TimKiemTuKhoaDung is failed.
+[INFO ] 03-10-2024 09:40:27 [main] Log - Test case: TimKiemTuKhoaGanDung test is starting...
+[INFO ] 03-10-2024 09:40:27 [main] Log - Truy cap trang: https://maybi.com/

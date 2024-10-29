@@ -1,0 +1,3 @@
+[INFO ] 03-10-2024 23:19:18 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 23:19:29 [main] Log - [Verify Element text] của: By.xpath: //*[@id="cart-tab"]/div/div[1]/form/div[2]/div[1]/div[1]/div[3]/div[1]/h3/a với value: Chân váy xòe nhún tầng midi cotton
+[INFO ] 03-10-2024 23:19:29 [main] Log - [Verify Element text] của: By.xpath: //h5[contains(text(),'Áo thun ôm xếp ly vai')] với value: Áo thun trắng form medium in hình trái tim

@@ -1,0 +1,4 @@
+[INFO ] 03-10-2024 07:11:23 [main] Log - Test case: DangKyKhongThanhCong_FailEmail test is starting...
+[INFO ] 03-10-2024 07:11:23 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 07:11:28 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 07:11:29 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]

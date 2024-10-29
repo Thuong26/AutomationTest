@@ -1,0 +1,3 @@
+[INFO ] 03-10-2024 22:34:18 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 22:34:25 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 22:34:25 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]

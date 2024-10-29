@@ -1,0 +1,7 @@
+[INFO ] 04-10-2024 09:20:15 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 04-10-2024 09:20:23 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 04-10-2024 09:20:24 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 04-10-2024 09:20:24 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 04-10-2024 09:20:25 [main] Log - [Click] vào By.xpath: //div[contains(@class, 'tw-bg-black/40')]
+[INFO ] 04-10-2024 09:20:25 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 04-10-2024 09:20:29 [main] Log - [Verify Element text] của: By.xpath: //a[contains(text(),'Chân váy midi xoè lưới')] với value: Chân váy midi xoè lưới

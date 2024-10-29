@@ -1,0 +1,7 @@
+[INFO ] 03-10-2024 16:54:48 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 16:54:48 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 16:54:50 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 16:54:51 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 16:54:51 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 16:54:51 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 16:54:52 [main] Log - [Verify Element text] của: By.xpath: //*[@id="search-result"]/div[2]/div/div/div/div/div/form/div[2]/div[1]/a với value: Ao thun om xep ly vai

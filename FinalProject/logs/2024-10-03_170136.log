@@ -1,0 +1,15 @@
+[INFO ] 03-10-2024 17:01:37 [main] Log - Test case: TimKiemTuKhoaDung test is starting...
+[INFO ] 03-10-2024 17:01:37 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 17:01:38 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 17:01:39 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 17:01:39 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 17:01:39 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 17:01:40 [main] Log - [Verify Element text] của: By.xpath: //a[contains(text(),'Áo thun ôm xếp ly vai')] với value: Áo thun ôm xếp ly vai
+[INFO ] 03-10-2024 17:01:40 [main] Log - Test case: TimKiemTuKhoaDung is passed.
+[INFO ] 03-10-2024 17:01:41 [main] Log - Test case: TimKiemTuKhoaGanDung test is starting...
+[INFO ] 03-10-2024 17:01:41 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 17:01:43 [main] Log - [Click] vào By.xpath: /html/body/header[1]/div/div[4]/div/span
+[INFO ] 03-10-2024 17:01:44 [main] Log - [Clear text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 17:01:44 [main] Log - [Set text] của By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/input[1]
+[INFO ] 03-10-2024 17:01:44 [main] Log - [Click] vào By.xpath: /html/body/header[2]/div/div[1]/div[2]/form/span/button
+[INFO ] 03-10-2024 17:01:45 [main] Log - [Verify Element text] của: By.xpath: //a[contains(text(),'Chân váy midi xoè lưới')] với value: Chân váy midi xoè lưới

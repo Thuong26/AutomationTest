@@ -1,0 +1,15 @@
+[INFO ] 03-10-2024 22:27:35 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 22:27:36 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 22:27:37 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[INFO ] 03-10-2024 22:27:38 [main] Log - [Clear text] của By.id: lastName
+[INFO ] 03-10-2024 22:27:38 [main] Log - [Set text] của By.id: lastName
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Clear text] của By.id: firstName
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Set text] của By.id: firstName
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Clear text] của By.id: email
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Set text] của By.id: email
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Clear text] của By.id: Phone
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Set text] của By.id: Phone
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Clear text] của By.id: password
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Set text] của By.id: password
+[INFO ] 03-10-2024 22:27:39 [main] Log - [Click] vào By.xpath: /html/body/section[2]/div/div/div[2]/div/div/div/form/div[2]/div[3]/button
+[INFO ] 03-10-2024 22:27:40 [main] Log - [Verify Element text] của: By.xpath: //*[@id="lastName"] với value: 

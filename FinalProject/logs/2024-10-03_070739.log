@@ -1,0 +1,14 @@
+[INFO ] 03-10-2024 07:07:39 [main] Log - Test case: DangKyKhongThanhCong_FailEmail test is starting...
+[INFO ] 03-10-2024 07:07:39 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 07:07:44 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 07:07:45 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[ERROR] 03-10-2024 07:08:18 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmail
+[ERROR] 03-10-2024 07:08:18 [main] Log - Test case: DangKyKhongThanhCong_FailEmail is failed.
+[INFO ] 03-10-2024 07:08:19 [main] Log - Test case: DangKyKhongThanhCong_FailEmailDaTonTai test is starting...
+[INFO ] 03-10-2024 07:08:19 [main] Log - Truy cap trang: https://maybi.com/
+[INFO ] 03-10-2024 07:08:26 [main] Log - [Hover] vào By.xpath: /html/body/header/div/div[4]/div/div[1]
+[INFO ] 03-10-2024 07:08:26 [main] Log - [Click] vào By.xpath: //a[contains(text(),'Đăng ký')]
+[ERROR] 03-10-2024 07:08:35 [main] Log - Đây là test case bị fail: DangKyKhongThanhCong_FailEmailDaTonTai
+[ERROR] 03-10-2024 07:08:35 [main] Log - Test case: DangKyKhongThanhCong_FailEmailDaTonTai is failed.
+[INFO ] 03-10-2024 07:08:36 [main] Log - Test case: DangKyKhongThanhCong_FailEmailcochuadaucach test is starting...
+[INFO ] 03-10-2024 07:08:36 [main] Log - Truy cap trang: https://maybi.com/
